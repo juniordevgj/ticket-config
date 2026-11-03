@@ -10,6 +10,13 @@
       "weekday": "Sunday, 2026",
       "button": "Buy a ticket",
       "typeval": "Meet and greet"
+    },
+    "fr": {
+      "title": "Rencontrez RICKY MARTIN",
+      "date": "6 décembre",
+      "weekday": "Dimanche, 2026",
+      "typeval": "Rencontrer et saluer",
+      "button": "Acheter un billet"
     }
   }
 }
