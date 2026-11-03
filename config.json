@@ -1,8 +1,16 @@
 {
-  "title": "Se rencontrer RICKY MARTIN",
-  "date": "6 Décembre",
-  "weekday": "Dimanche, 2026",
   "price": "€118.30",
-  "button": "Acheter un billet",
-  "tg": "https://t.me/TICKET_SALES_RICKY_MARTIN"
+  "time": "",
+  "venue": "",
+  "tg": "https://t.me/TICKET_SALES_RICKY_MARTIN",
+  "text": {
+    "*": {
+      "title": "Se rencontrer RICKY MARTIN",
+      "date": "6 Décembre",
+      "weekday": "Dimanche, 2026",
+      "button": "Acheter un billet",
+      "ticket": "Billet",
+      "typeval": "Rencontrer et saluer"
+    }
+  }
 }
