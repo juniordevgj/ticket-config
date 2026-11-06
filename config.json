@@ -5,7 +5,7 @@
   "tg": "https://t.me/TICKET_SALES_RICKY_MARTIN",
   "text": {
     "*": {
-      "title": "Meet PABLO ALBORÀN",
+      "title": "Conoce a PABLO ALBORÀN",
       "date": "29th December",
       "weekday": "Sunday, 2026",
       "button": "Buy a ticket",
@@ -20,7 +20,9 @@
     },
     "es": {
       "typeval": "Conocer y saludar",
-      "button": "Compra un billete"
+      "button": "Compra un billete",
+      "date": "29th Noviembre",
+      "weekday": "Domingo, 2026"
     }
   }
 }
