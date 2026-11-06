@@ -17,6 +17,10 @@
       "weekday": "Dimanche, 2026",
       "typeval": "Rencontrer et saluer",
       "button": "Acheter un billet"
+    },
+    "es": {
+      "typeval": "Conocer y saludar",
+      "button": "Compra un billete"
     }
   }
 }
